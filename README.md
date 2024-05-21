@@ -13,6 +13,6 @@ Review my parameters have a relationship with survival<br>
 Ranking<br>
 ![ranking](/assets/ranking.png)<br>
   * Achieved 0.78947 ranking 1464 out of 13907, i.e. Top 10% in 11 days (Top 9% if excluding 264 kagglers who scored 1.0) 
-  * Three best models used as an ensemble learning out of various others such as Keras Neural Network, SVC, Random Forest<br>
+  * Three best models used with an ensemble learning (Selected out of various others such as Keras Neural Network, SVC, Random Forest)<br>
   * Very important to squeeze out useful features from the dataset rather just dropping<br>
 <br>
