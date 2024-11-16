@@ -4,7 +4,7 @@
   This is my first trial with Kaggle Titanic<br>
 <br>
 ## Objective<br>
-  Get best score with Kaggle Titanic dataset to predict survived passengers<br>
+  Predict survived passngers with Kaggle Titanic dataset and get the best score<br>
 <br>
 ## Result<br>
 Review my parameters have a relationship with survival<br>
