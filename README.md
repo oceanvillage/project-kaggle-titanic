@@ -11,7 +11,7 @@ Correlation table between my parameters and survival<br>
 ![table 1](/assets/table_1.png)<br>
  <br>
 
-Ranking<br>
+My ranking<br>
 ![ranking](/assets/ranking.png)<br>
   * Used three best models (XGB,HGBC,GBC) with an ensemble learning (Selected out of various models such as Keras Neural Network, SVC, Random Forest)<br>
   * Achieved 0.78947 ranking 1464 out of 13907, i.e. Top 10% in 11 days (Top 9% if excluding 264 kagglers who scored 1.0) 
